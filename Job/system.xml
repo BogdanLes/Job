@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sys>
+  <snr>1</snr>
+  <sites>
+    <ss1>
+      <nr1>1</nr1>
+      <title1>CV-Job Hunting</title1>
+      <dir1>CV</dir1>
+      <file1>CV/index.php</file1>
+      <date1>19mai2024</date1>
+      <organization1>me</organization1>
+      <description1>Find a job asistant.</description1>
+    </ss1>
+  </sites>
+</sys>

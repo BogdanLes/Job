@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sys>
+  <snr>6</snr>
+  <sites>
+    <ss1>aaa</ss1>
+    <ss2>site2</ss2>
+    <ss3>site3</ss3>
+    <ss4>site4</ss4>
+    <ss5>site5</ss5>
+    <ss6>
+      <nr6>6</nr6>
+      <title6>CV-Job Hunting</title6>
+      <dir6>CV</dir6>
+      <file6>CV/index.php</file6>
+      <date6>19mai2024</date6>
+      <organization6>me</organization6>
+      <description6>Find a job asistant.</description6>
+    </ss6>
+  </sites>
+</sys>

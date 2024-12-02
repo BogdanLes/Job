@@ -1,0 +1,108 @@
+/*ACTIVE:
+-all files in job
+*/
+
+/* body */
+body { font-family: "Times New Roman", Times, serif; }
+
+/* index.php --Job Dispecer */
+
+
+
+#wallt { width: 99%; }
+.walltd1cl { width: 60%; padding: 10px;vertical-align: top; }
+.walltd2cl { width: 40%; padding: 10px;vertical-align: top; }
+
+/* list jobs section */
+.jh1cl {
+	
+}
+.wwjoblistcl { 
+	margin: 5px;
+	margin-bottom: 10px;
+	border: thin solid grey;
+	border-bottom-width: 3px;
+	padding: 5px;
+}
+.wwjoblistcl:hover { border-bottom-color: black; }
+.joblisttitlecl { font-size: 150%; font-weight: bold; }
+.wjoblistlinkcl { font-size: 125%; padding: 10px; }
+
+
+/* search job form */
+.shjboxcl {
+	padding: 7px;
+	border: thin solid grey;
+	border-bottom-width: 3px;
+	min-width: 250px;
+}
+.shjbttcl {
+	padding: 7px;
+	border: thin solid grey;
+	border-bottom-width: 3px;
+	cursor: pointer;
+	font-weight: bold;
+}
+.shjbttcl:hover { background-color: #f2f2f2; }
+
+
+
+/* add job form  */
+.wwaddjobcl { padding-top: 20px; }
+.waddjobcl { width: 97%;background: #f2f2f2;padding: 5px;  }
+.waddjobfcl { padding-top: 5px; padding-bottom: 5px; }
+.addjobncl {
+	display: inline-block;
+	position: relative;
+	margin-left : 40px;
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	min-width: 150px;
+	-webkit-border-top-left-radius:15px;
+	-moz-border-radius-topleft:15px;
+	border-top-left-radius:15px;
+	-webkit-border-top-right-radius:15px;
+	-moz-border-radius-topright:15px;
+	border-top-right-radius:15px;
+	-webkit-border-bottom-right-radius:15px;
+	-moz-border-radius-bottomright:15px;
+	border-bottom-right-radius:15px;
+	-webkit-border-bottom-left-radius:15px;
+	-moz-border-radius-bottomleft:15px;
+	border-bottom-left-radius:15px;
+	-webkit-transition: 0.3s ease-in-out;
+	transition: 0.3s ease-in-out;
+	z-index: 2;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	-ms-transform: translateY(10px);
+	-o-transform: translateY(10px);
+	transform: translateY(10px);
+}
+.addjobfcl { display: inline-block; width: 85%;
+padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+
+}
+.addjobfxcl { display: inline-block; width: 85%; height: 100px; }
+.addjobdirwar { color: darkred; }
+#addjobsubmit {
+	cursor: pointer;
+	background-color: #cccccc;
+	border: thin solid grey;
+	padding: 10px; padding-right: 25px; padding-left: 25px;
+	font-weight: bold;
+}
+#addjobsubmit:hover { 
+	background-color: #a6a6a6;
+	border: thin solid black;
+
+}
+
+
+
+
